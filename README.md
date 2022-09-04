@@ -11,6 +11,11 @@ Mobile version:
 <br/>
 ![Movie Search App Mobile Image](img/MovieSearchApp3.jpg?raw=true "Title")
 
+## Key Features
+- Search bar where users can search for any movie or TV series
+- Add/Remove Favorites option
+- Favorites section for displaying favorite titles (stored in Local Storage)
+
 ## Link to live web page
 https://j-kuopus.github.io/movie_search_app/
 
