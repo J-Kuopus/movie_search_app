@@ -9,5 +9,5 @@ Web version:
 
 Mobile version:
 <br/>
-![Movie Search App Mobile Image](img/movieSearchApp3.jpg?raw=true "Title")
+![Movie Search App Mobile Image](img/MovieSearchApp3.jpg?raw=true "Title")
 
