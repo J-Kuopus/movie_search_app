@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://j-kuopus.github.io/movie_search_app",
   "private": true,
+  "proxy": "http://www.omdbapi.com/?i=tt3896198&apikey=68035866",
   "dependencies": {
     "bootstrap": "^5.2.0",
     "react": "^18.2.0",
