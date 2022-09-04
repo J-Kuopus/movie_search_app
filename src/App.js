@@ -64,7 +64,7 @@ const App = () => {
 
   return (
         <div className='container-fluid movie-app'>
-          <div className='row d-flex align-items-center mb-4 pt-3 pb-2' style={{ backgroundColor: '#333'}}>
+          <div className='row d-flex align-items-center mb-4 pt-4 pb-3 px-2' style={{ backgroundColor: '#333'}}>
                 <img src={Film} className='film-img' alt='film reel'/>
                 <Header heading='Movie Search App' />
                 <span className='col header-text'>Type in a movie title to get started!</span>
