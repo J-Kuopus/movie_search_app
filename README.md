@@ -5,11 +5,11 @@ This is a simple movie search application, made with React, that connects to an 
 
 ## Images
 Web version:
-![Movie Search App Web Image](img/movieSearchApp1.jpg?raw=true "Title")
+![Movie Search App Web Image](src/img/movieSearchApp1.jpg?raw=true "Title")
 
 Mobile version:
 <br/>
-![Movie Search App Mobile Image](img/MovieSearchApp3.jpg?raw=true "Title")
+![Movie Search App Mobile Image](src/img/MovieSearchApp3.jpg?raw=true "Title")
 
 ## Key Features
 - Search bar where users can search for any movie or TV series
