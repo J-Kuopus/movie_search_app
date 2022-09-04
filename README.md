@@ -11,3 +11,14 @@ Mobile version:
 <br/>
 ![Movie Search App Mobile Image](img/MovieSearchApp3.jpg?raw=true "Title")
 
+## Link to live web page
+https://j-kuopus.github.io/movie_search_app/
+
+## Technical Requirements
+- React.js
+- CSS3
+- Bootstrap
+- External API: OMDb API - The Open Movie Database (https://www.omdbapi.com/)
+
+## Connected Database
+No local database being referenced. Movie info is fetched from the OMDb API in JSON format.
