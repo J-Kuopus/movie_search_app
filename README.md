@@ -5,9 +5,9 @@ This is a simple movie search application, made with React, that connects to an 
 
 ## Images
 Web version:
-![Movie Search App Web Image](img/movieSearchApp.jpg?raw=true "Title")
+![Movie Search App Web Image](img/movieSearchApp1.jpg?raw=true "Title")
 
 Mobile version:
 <br/>
-![Movie Search App Mobile Image](img/movieSearchApp.jpg?raw=true "Title")
+![Movie Search App Mobile Image](img/movieSearchApp3.jpg?raw=true "Title")
 
