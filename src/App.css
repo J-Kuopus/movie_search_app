@@ -6,6 +6,11 @@ body {
   margin-bottom: 4rem;
 }
 
+.film-img {
+  width: 70px;
+  height: auto;
+}
+
 @media all and (max-width: 1000px) {
   .header-text {
     display: none;

@@ -5,6 +5,7 @@ import Header from './components/Header/Header';
 import SearchBox from './components/SearchBox/SearchBox';
 import AddFavorites from './components/AddFavorites/AddFavorites';
 import RemoveFavorites from './components/RemoveFavorites/RemoveFavorites';
+import Film from './img/film-reel3.png';
 
 
 const App = () => {
@@ -64,6 +65,7 @@ const App = () => {
   return (
         <div className='container-fluid movie-app'>
           <div className='row d-flex align-items-center mb-4 pt-3 pb-2' style={{ backgroundColor: '#333'}}>
+                <img src={Film} className='film-img' alt='film reel'/>
                 <Header heading='Movie Search App' />
                 <span className='col header-text'>Type in a movie title to get started!</span>
                 <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
